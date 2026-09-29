@@ -6,4 +6,7 @@ A responsive front-end clone of Amazon built with JavaScript, HTML5, and CSS3. D
 
 ---
 
-## 🌠 
+## 🌟 Key Features & Functionalities
+
+- **Responsive E-commerce UI:** Layout design using CSS Flexbox & Grid.
+- **DOM Manipulation:** Interactive logo, Location Selector & Smooth `Back to Top`
