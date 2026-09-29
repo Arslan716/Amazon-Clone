@@ -19,3 +19,30 @@ A responsive front-end clone of Amazon built with JavaScript, HTML5, and CSS3. D
 
 - **HTML5:** Semantic Layout structure.
 - **CSS3:** Custom styling, Flexbox, hover effects, and media queries.
+- **JavaScript (ES6+):** Event Listeners, DOM Selection.
+
+
+## 📁  Project Structure
+
+|
+|___ images       # Images & logo
+|    |___ amazon_logo.png
+|    |___ box1-img.jpg
+|    |___ box2-img.jpg
+|    |___ . . .
+|
+|___ index.html       # Main application UI
+|___ style.css        # Styling & Responsiveness
+|___ logic.js         # Web Logic
+
+
+
+
+
+
+
+
+
+
+
+
