@@ -28,13 +28,13 @@ A responsive front-end clone of Amazon built with JavaScript, HTML5, and CSS3. D
 <br>
 |___ images       # Images & logo
 <br>
-|    |___ amazon_logo.png
+|    -|___ amazon_logo.png
 <br>
-|    |___ box1-img.jpg
+|    -|___ box1-img.jpg
 <br>
-|    |___ box2-img.jpg
+|    -|___ box2-img.jpg
 <br>
-|    |___ . . .
+|    -|___ . . .
 <br>
 |
 <br>
